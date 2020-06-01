@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\bin\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\GERADOR DE GETTERS E SETTERS\obj\Debug\netcoreapp3.1\GERADOR DE GETTERS E SETTERS.genruntimeconfig.cache
