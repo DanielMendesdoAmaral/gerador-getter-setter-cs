@@ -1,1 +1,1 @@
-# gerador-getter-setter-cs
+Simples gerador de getters/setters para C#.
